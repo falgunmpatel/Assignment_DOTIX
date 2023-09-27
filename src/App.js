@@ -11,7 +11,7 @@ import QuizSports from "./components/Quiz/QuizSports";
 
 export default function App() {
   return (
-    <HashRouter basename="/">
+    <HashRouter>
       <Routes>
         <Route path="/" Component={Home} />
         <Route path="/home2" Component={Home2} />
