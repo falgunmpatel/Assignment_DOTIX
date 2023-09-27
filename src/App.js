@@ -4,12 +4,12 @@ import Leaderboard from "./components/Leaderboard";
 import QuizStats from "./components/QuizStats";
 import Home from "./components/Home";
 import Home2 from "./components/Home2";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import QuizScience from "./components/Quiz/QuizScience";
 import QuizHistory from "./components/Quiz/QuizHistory";
 import QuizSports from "./components/Quiz/QuizSports";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <Home />,
