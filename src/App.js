@@ -18,7 +18,7 @@ import QuizSports from "./components/Quiz/QuizSports";
 
 export default function App() {
   return (
-    <HashRouter basename="https://falgunmpatel.github.io/Assignment_DOTIX/#/app">
+    <HashRouter basename="https://falgunmpatel.github.io/Assignment_DOTIX/">
       <Routes>
         <Route path="/" Component={Home} />
         <Route path="/home2" Component={Home2} />
