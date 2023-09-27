@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Assignment_DOTIX/static/css/main.3659d7a4.css",
-    "main.js": "/Assignment_DOTIX/static/js/main.a227bf00.js",
+    "main.js": "/Assignment_DOTIX/static/js/main.78b3be55.js",
     "index.html": "/Assignment_DOTIX/index.html",
     "main.3659d7a4.css.map": "/Assignment_DOTIX/static/css/main.3659d7a4.css.map",
-    "main.a227bf00.js.map": "/Assignment_DOTIX/static/js/main.a227bf00.js.map"
+    "main.78b3be55.js.map": "/Assignment_DOTIX/static/js/main.78b3be55.js.map"
   },
   "entrypoints": [
     "static/css/main.3659d7a4.css",
-    "static/js/main.a227bf00.js"
+    "static/js/main.78b3be55.js"
   ]
 }
